@@ -1,5 +1,5 @@
 # ContractorProject
 
-ContractorProject is building a marketplace app for hiring and paying service professionals.
+ContractorProject is a digital marketplace for booking and paying trusted service professionals.
 
-Think of it as a competitor to GetNinjas: an experience similar to iFood, but focused on services instead of food.
+The platform connects customers and providers with a simple, fast experience for discovering, scheduling, and paying for services.
